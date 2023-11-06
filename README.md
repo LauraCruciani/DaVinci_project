@@ -3,7 +3,10 @@
 ### Project Description
 
 The project aims to reconstruct the surgical scene in 3D acquired from the Da Vinci system, segmenting and highlighting the common iliac artery.
-![Alt Text](link_to_your_gif.gif)
+
+<center>
+  <img src="Result.gif" alt="Alt Result">
+</center>
 The repository is organized as follows:
 
 #### 1. Calibration
